@@ -1,15 +1,26 @@
+# Flutter Application with the following features:-
+
+## ->Login and Signup page connected with Firebase.
+## ->Dashboard along with Specific selections.
+## ->Payment Page.
+## ->Real Time QR generation.
+## ->Chat bot connected with Firebase.
+## ->History Tab.
+
 # 📸 Screenshots
-The screenshots below are taken on a android emulator.
 
-| 1 | 2|
-|------|-------|
-|<img src="./screenshots/1.png" width="300">|<img src="screenshots/2.png" width="300">|
-
-| 3 | 4|
-|------|-------|
-|<img src="screenshots/3.png" width="300">|<img src="screenshots/4.png" width="300">|
+![](https://github.com/Sumit-Budhiraja/Flutter-Laundary-App-With-Firebase/blob/master/ss/1.jpeg)
 
 
-| 5 | 6|
-|------|-------|
-|<img src="screenshots/5.png" width="300">|<img src="screenshots/6.png" width="300">|
+
+![](https://github.com/Sumit-Budhiraja/Flutter-Laundary-App-With-Firebase/blob/master/ss/2.jpeg)
+
+
+
+
+![](https://github.com/Sumit-Budhiraja/Flutter-Laundary-App-With-Firebase/blob/master/ss/3.jpeg)
+
+
+
+## -[Click to dowmload](https://github.com/Sumit-Budhiraja/Flutter-Laundary-App-With-Firebase/blob/master/build/app/outputs/apk/app.apk)
+
