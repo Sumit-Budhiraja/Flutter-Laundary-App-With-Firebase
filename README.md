@@ -1,15 +1,13 @@
+# Flutter Application with the following features:-
+
+## ->Login and Signup page connected with firebse
+## ->Dashboard along with Specific selections
+## ->Payment Page
+## ->Real Time QR generation
+## ->Chat bot connected with firebase
+## ->History Tab
+
 # 📸 Screenshots
-The screenshots below are taken on a android emulator.
 
-| 1 | 2|
-|------|-------|
-|<img src="./screenshots/1.png" width="300">|<img src="screenshots/2.png" width="300">|
+![]()
 
-| 3 | 4|
-|------|-------|
-|<img src="screenshots/3.png" width="300">|<img src="screenshots/4.png" width="300">|
-
-
-| 5 | 6|
-|------|-------|
-|<img src="screenshots/5.png" width="300">|<img src="screenshots/6.png" width="300">|
